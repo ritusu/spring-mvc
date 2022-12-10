@@ -8,7 +8,7 @@
 	<packaging>war</packaging>
 
 	<properties>
-		<spring.version>5.1.7.RELEASE</spring.version>
+		<spring.version>6.0.0</spring.version>
 		<jackson.version>2.9.9</jackson.version>
 		<oracle.driver.version>12.2.0.1</oracle.driver.version>
 		<dbcp.version>2.6.0</dbcp.version>
